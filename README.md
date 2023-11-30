@@ -1,10 +1,10 @@
-First Name: Chinemerem
-Last Name: ThankGod
-Surname: Oguegbu
+First Name: Isaac Kanee
+Middle Name: Letambari
+Surname: Kanee
 Hobby: Playing FIFA
 Country: Nigeria
 State: Lagos
-City: Surulere
-Mobile Phone(optional): +234 805 641 7619
+City: Somolu
+Mobile Phone(optional): +234 703 099 2774
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------
